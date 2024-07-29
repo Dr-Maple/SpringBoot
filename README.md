@@ -1,4 +1,4 @@
-# SpringBoot
+# 基于源码解析SpringBoot自动配置
 一、什么是Spring Boot的自动配置？
 
 Spring Boot的最大的特点就是简化了各种xml配置内容，还记得曾经使用SSM框架时我们在spring-mybatis.xml配置了多少内容吗？数据源、连接池、会话工厂、事务管理···，而现在Spring Boot告诉你这些都不需要了，一切交给它的自动配置吧！
